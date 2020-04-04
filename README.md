@@ -1,2 +1,2 @@
-# wjdwnfl95-gitgub.com
+# wjdwnfl95.github.com
 For my Git_blog
